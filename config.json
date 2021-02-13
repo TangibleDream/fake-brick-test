@@ -1,0 +1,8 @@
+{
+    "speed":
+     { "quick":0.8,
+       "explore":120 },
+    "settings":
+    { "host":"http://ec2-54-208-152-154.compute-1.amazonaws.com/",
+      "browser":"chrome"}
+}
