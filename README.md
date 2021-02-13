@@ -1,8 +1,10 @@
 # Fake brick test
 This is a series of tests made for a fake gold brick puzzle made by Fetch Rewards.  Word has it that the lead is a fan of Ruby, which I cut my teeth on, and also like alot. So here it is.
 
-## Bug
-One bug I found was the weighting result square is set as an inactive button labeled #reset, which is double labeled with the actual #reset button at the top.  I purposefully left the code garish in that instance in anticipation of a bug fix.
+## Bugs found
+-  One bug I found was the weighting result square is set as an inactive button labeled #reset, which is double labeled with the actual #reset button at the top.  I purposefully left the code garish in that instance in anticipation of a bug fix.
+-  Another point is that when there are duplicates on both sides of the scale, The alert message only acknowleges the duplicates on the left side.
+
 
 ## System
 
